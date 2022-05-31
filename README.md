@@ -11,4 +11,4 @@ text = "Modules:"
 ```
 ## Tools
 
-[Data]("../Challenge_10_code/Resources/crypto_market_data.csv")
+[Data]("../Resources/crypto_market_data.csv")
